@@ -4,3 +4,4 @@ cuda
 openwebtext/openwebtext
 openwebtext/output_val.txt
 openwebtext/output_train.txt
+model_01.pkl
