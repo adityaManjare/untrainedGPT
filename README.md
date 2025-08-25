@@ -17,11 +17,11 @@ The parameters are intentionally small so it can run without heavy hardware.
 ## Run
 ```bash
 # clone and enter repo
-git clone <repo-url>
-cd <repo-name>
+git clone untrainedGPT
+cd untrainedGPT
 
 # run trainer
-python trainer.py
+python train_gpt.py
 
 # run chatbot
 python chatbot.py
